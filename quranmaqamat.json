@@ -2,43 +2,43 @@
   "city": "Quranmaqamat",
   "stations": [
     {
-      "name": "Surat AnNaas",
+      "name": "The Entrance of Maqamat",
       "url": "http://82.14.254.238:8000/Quranmaqamat/1THEENTRANCEOFMAQAMAT.mp3"
     },
     {
-      "name": "Surat AlFalaq",
+      "name": "Maqam Nahawand",
       "url": "http://82.14.254.238:8000/Quranmaqamat/2MAQAMNAHAWAND.mp3"
     },
     {
-      "name": "Surat AlIkhlas",
+      "name": "Maqam Ajam",
       "url": "http://82.14.254.238:8000/Quranmaqamat/3MAQAMAJAM.mp3"
     },
     {
-      "name": "Surat AlMasad",
+      "name": "Maqam Bayati",
       "url": "http://82.14.254.238:8000/Quranmaqamat/4MAQAMBAYAATI.mp3"
     },
     {
-      "name": "Surat AlKafiroon",
+      "name": "Maqam Sikah",
       "url": "http://82.14.254.238:8000/Quranmaqamat/5MAQAMSIKAH.mp3"
     },
     {
-      "name": "Surat AlKawthar",
+      "name": "Maqam Hijaz",
       "url": "http://82.14.254.238:8000/Quranmaqamat/6MAQAMHIJAZ.mp3"
     },
        {
-      "name": "Surat AlMaun",
+      "name": "Makam Rast",
       "url": "http://82.14.254.238:8000/Quranmaqamat/7MAQAMRAST.mp3"
     },
     {
-      "name": "Surat AnNasr",
+      "name": "Maqam Kurd",
       "url": "http://82.14.254.238:8000/Quranmaqamat/8MAQAMKURD.mp3"
     },
     {
-      "name": "Surat Quraysh",
+      "name": "Juz Aammabyal Maqamat",
       "url": "http://82.14.254.238:8000/Quranmaqamat/JUZAAAMMABYALLMAQAMAT.mp3"
     },
                   {
-      "name": "Surat AlFeel",
+      "name": "Six Types of Maqam",
       "url": "http://82.14.254.238:8000/Quranmaqamat/TheSixtypesofMaqam.mp3"
        }           
   ]
