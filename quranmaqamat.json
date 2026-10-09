@@ -1,0 +1,50 @@
+{
+  "city": "Qurankids",
+  "stations": [
+    {
+      "name": "Surat AnNaas",
+      "url": "http://82.14.254.238:8000/Qurankids/2Surat AnNaas.mp3"
+    },
+    {
+      "name": "Surat AlFalaq",
+      "url": "http://82.14.254.238:8000/Qurankids/3SuratAlFalaq.mp3"
+    },
+    {
+      "name": "Surat AlIkhlas",
+      "url": "http://82.14.254.238:8000/Qurankids/4Surat AlIkhlas.mp3"
+    },
+    {
+      "name": "Surat AlMasad",
+      "url": "http://82.14.254.238:8000/Qurankids/5Surat AlMasad.mp3"
+    },
+    {
+      "name": "Surat AlKafiroon",
+      "url": "http://82.14.254.238:8000/Qurankids/6Surat AlKafiroon.mp3"
+    },
+    {
+      "name": "Surat AlKawthar",
+      "url": "http://82.14.254.238:8000/Qurankids/7Surat AlKawthar.mp3"
+    },
+       {
+      "name": "Surat AlMaun",
+      "url": "http://82.14.254.238:8000/Qurankids/8Surat AlMaun.mp3"
+    },
+    {
+      "name": "Surat AnNasr",
+      "url": "http://82.14.254.238:8000/Qurankids/9Surat AnNasr.mp3"
+    },
+    {
+      "name": "Surat Quraysh",
+      "url": "http://82.14.254.238:8000/Qurankids/10Surat Quraysh.mp3"
+    },
+                  {
+      "name": "Surat AlFeel",
+      "url": "http://82.14.254.238:8000/Qurankids/11Surat AlFeel.mp3"
+       },
+        {
+      "name": "The 3 Quls",
+      "url": "http://82.14.254.238:8000/Qurankids/The3Quls.mp3"
+       }
+             
+  ]
+}
